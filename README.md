@@ -12,7 +12,8 @@ Data source #2 is the food2fork Recipe API, with a simple search endpoint.
 For each day, you should find suitable recipes to fit the ingredients available, and store them in a database.
 
 ## Data sources
-food2fork API key: 401483f2bac6d57611efec1e5eeea03b
+food2fork API key: `401483f2bac6d57611efec1e5eeea03b`
+
 food2fork API docs: https://www.food2fork.com/about/api
 
 Google Sheet with ingredients: https://docs.google.com/spreadsheets/d/1HkFNskCmDsnU-7il2-M4vMXPv9fneOh-02hsMA-5_SA/edit?usp=sharing
