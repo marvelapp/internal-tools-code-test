@@ -21,6 +21,13 @@ Google Sheet with ingredients: https://docs.google.com/spreadsheets/d/1HkFNskCmD
 ## Implementation
 The only stipulation is that you build the script using Python. Beyond that, you are free to use any library you need.
 
-You can write tests for the script but it's not a requirement.
-
 To submit your solution either send us a link to a code repo or send us a zip file. Please provide simple instructions on how to run your app.
+
+## What we're looking for
+By giving you this test we're looking to judge your coding ability, and the relative ease with which you can plug different sources of data together.
+
+Things to keep in mind:
+- Could another engineer read this code and know its function with minimal overhead?
+- Could yourself, or another engineer easily maintain this code?
+- Is the code structured efficiently?
+- If the code fails, how will you know about it?
