@@ -31,3 +31,5 @@ Things to keep in mind:
 - Could yourself, or another engineer easily maintain this code?
 - Is the code structured efficiently?
 - If the code fails, how will you know about it?
+- Does your solution come with any limitations? If so, what are they?
+- If you were to spend more time on this solution, what would you do and why?
